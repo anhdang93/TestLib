@@ -1,0 +1,74 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/anhdnt/Project/TestLib",
+      "sdkFolder": "/Users/anhdnt/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/anhdnt/Project/TestLib/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/anhdnt/Project/TestLib/app",
+      "makeFile": "/Users/anhdnt/Project/TestLib/app/src/main/cpp/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/anhdnt/Project/TestLib/.cxx",
+      "cxxFolder": "/Users/anhdnt/Project/TestLib/app/.cxx",
+      "ndkFolder": "/Users/anhdnt/Library/Android/sdk/ndk-bundle",
+      "ndkVersion": "20.1.5948944",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "--build-tests"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "release",
+    "soFolder": "/Users/anhdnt/Project/TestLib/app/build/intermediates/cmake/release/lib",
+    "objFolder": "/Users/anhdnt/Project/TestLib/app/build/intermediates/cmake/release/obj",
+    "jsonFolder": "/Users/anhdnt/Project/TestLib/app/.cxx/cmake/release",
+    "gradleBuildOutputFolder": "/Users/anhdnt/Project/TestLib/app/.cxx/cxx/release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "/Users/anhdnt/Project/TestLib/app/.cxx/cmake/release/x86_64",
+  "jsonFile": "/Users/anhdnt/Project/TestLib/app/.cxx/cmake/release/x86_64/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/anhdnt/Project/TestLib/app/.cxx/cxx/release/x86_64",
+  "objFolder": "/Users/anhdnt/Project/TestLib/app/build/intermediates/cmake/release/obj/x86_64",
+  "buildCommandFile": "/Users/anhdnt/Project/TestLib/app/.cxx/cmake/release/x86_64/build_command.txt",
+  "buildOutputFile": "/Users/anhdnt/Project/TestLib/app/.cxx/cmake/release/x86_64/build_output.txt",
+  "modelOutputFile": "/Users/anhdnt/Project/TestLib/app/.cxx/cmake/release/x86_64/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/anhdnt/Project/TestLib/app/.cxx/cxx/release/x86_64/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/anhdnt/Project/TestLib/app/.cxx/cxx/release/x86_64/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/anhdnt/Project/TestLib/app/.cxx/cxx/release/x86_64/build_generation_state.json",
+    "cacheKeyFile": "/Users/anhdnt/Project/TestLib/app/.cxx/cxx/release/x86_64/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/anhdnt/Project/TestLib/app/.cxx/cxx/release/x86_64/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/anhdnt/Project/TestLib/app/.cxx/cxx/release/x86_64/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/anhdnt/Project/TestLib/app/.cxx/cxx/release/x86_64/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/anhdnt/Project/TestLib/app/.cxx/cmake/release/x86_64/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/anhdnt/Project/TestLib/app/.cxx/cmake/release/x86_64/compile_commands.json"
+}

@@ -1,0 +1,6 @@
+[submodule "app/src/main/cpp/opt/cpr"]
+	path = app/src/main/cpp/opt/cpr
+	url = https://github.com/whoshuu/cpr.git
+[submodule "app/src/main/cpp/opt/json"]
+	path = app/src/main/cpp/opt/json
+	url = git://github.com/nlohmann/json.git
